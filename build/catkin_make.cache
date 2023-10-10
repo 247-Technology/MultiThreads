@@ -1,0 +1,2 @@
+my_ros_package
+-DCATKIN_DEVEL_PREFIX=/home/khanh/ThreadC++/devel -DCMAKE_INSTALL_PREFIX=/home/khanh/ThreadC++/install -G Unix Makefiles
